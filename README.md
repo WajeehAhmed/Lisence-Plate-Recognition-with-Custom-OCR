@@ -9,6 +9,11 @@ This repo contain implementation of LPR with custom OCR
 ### Requirements
 use:pip install requirements.txt</br>to install all required packages
 </br></br>
+### Frameworks
+<b>Tensorflow</br>
+<b>Keras</br>
+<b>OpenCV</br>
+</br></br>  
 ### How it work
 follow the ipython notebook it's pretty straigh forward with well commented code
 </br></br>
