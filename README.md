@@ -19,5 +19,11 @@ follow the ipython notebook it's pretty straigh forward with well commented code
 ![detection1](https://user-images.githubusercontent.com/63501850/100925480-e6fcd480-3496-11eb-891c-be79825e3117.png)
 </br></br>
 ### Cropped Lisence Plates
-![Number_Plate_1](https://user-images.githubusercontent.com/63501850/100925500-efeda600-3496-11eb-9f1e-6ce3817dff55.png)
+![Number_Plate_1](https://user-images.githubusercontent.com/63501850/100926576-84a4d380-3498-11eb-8132-b95670f47587.png)
+</br></br>
+### Gray Scale Cropped Lisence Plates
+![0 1-gray](https://user-images.githubusercontent.com/63501850/100926151-cf721b80-3497-11eb-8209-f5adfbabc7f4.jpg)
+</br></br>
+### Random OCR Work
+![](https://media.discordapp.net/attachments/759366499495313444/777591261380870174/unknown.png)
 </br></br>
