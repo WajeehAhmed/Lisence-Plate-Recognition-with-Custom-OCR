@@ -1,5 +1,6 @@
 # Lisence-Plate-Recognition-with-Custom-OCR
 This repo contain implementation of LPR with custom OCR
+</br>I had used Google Colab and will definetly suggest to use too
 </br></br>
 ![result](https://user-images.githubusercontent.com/63501850/100925188-866d9780-3496-11eb-9747-0a323052a2be.gif)
 </br></br>
