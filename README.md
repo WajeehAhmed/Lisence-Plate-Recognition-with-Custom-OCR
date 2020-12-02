@@ -6,8 +6,7 @@ This repo contain implementation of LPR with custom OCR
 ![result2](https://user-images.githubusercontent.com/63501850/100925939-88842600-3497-11eb-8f6d-abb5399ebed4.gif)
 </br></br>
 ### Requirements
-use:pip install requirements.txt
-to install all requirements
+use:pip install requirements.txt</br>to install all requirements
 </br></br>
 ### How it work
 follow the ipython notebook it's pretty straigh forward with well commented code
@@ -24,6 +23,6 @@ follow the ipython notebook it's pretty straigh forward with well commented code
 ### Gray Scale Cropped Lisence Plates
 ![0 1-gray](https://user-images.githubusercontent.com/63501850/100926151-cf721b80-3497-11eb-8209-f5adfbabc7f4.jpg)
 </br></br>
-### Random OCR Work
+### Random OCR Results
 ![](https://media.discordapp.net/attachments/759366499495313444/777591261380870174/unknown.png)
 </br></br>
