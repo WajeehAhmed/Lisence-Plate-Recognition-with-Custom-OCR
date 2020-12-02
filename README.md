@@ -7,7 +7,7 @@ This repo contain implementation of LPR with custom OCR
 ![result2](https://user-images.githubusercontent.com/63501850/100925939-88842600-3497-11eb-8f6d-abb5399ebed4.gif)
 </br></br>
 ### Requirements
-use:pip install requirements.txt</br>to install all requirements
+use:pip install requirements.txt</br>to install all required packages
 </br></br>
 ### How it work
 follow the ipython notebook it's pretty straigh forward with well commented code
